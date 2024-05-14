@@ -1,10 +1,20 @@
 package main.list.OperacoesBasicas;
 
 public class Tarefa {
+	
+	private String descricao;
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+	public Tarefa(String descricao) {
+		this.descricao = descricao;
 	}
 
+	public String getDescricao() {
+		return descricao;
+	}
+
+	@Override
+	public String toString() {
+		return "\n" + descricao;
+	}
+	
 }
