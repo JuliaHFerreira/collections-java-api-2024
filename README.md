@@ -1,5 +1,5 @@
-#Santander Bootcamp 2024!
-###Conhecendo Collections Java
+# Santander Bootcamp 2024!
+### Conhecendo Collections Java
 
 ---
 
@@ -11,7 +11,7 @@
 - Temos quatro grandes tipos de coleções: `List` (lista), `Set` (conjunto), `Queue` (fila) e `Map` (mapa), a partir dessas interfaces, temos muitas subclasses concretas que implementam varias formas diferentes de se trabalhar com cada coleção.
 
 <p align="center">
-<img src="./assets/image/collection-framework.png"><br>
+<img height="300" src="https://ibb.co/tzfTxYh"><img src="https://i.ibb.co/T1XxbPT/hierarchy-of-collection-framework-in-java.png"><br>
 <a href="https://data-flair.training/blogs/collection-framework-in-java/">Hierarchy of Collection Framework in Java </a>
 </p>
 
@@ -20,7 +20,7 @@
 - Embora a interface `Map` não ser filha direta da interface `Collection` ela também é considerada uma coleção devido a sua função.
 
 <p align="center">
-<img src="./assets/image/collection-framework-methods.png" alt="List interface hierarchy Java"><br>
+<img height="300" src="https://i.ibb.co/W2gd4dm/collection-framework-methods.png"><br>
 <a href="https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Collection.html">Method Sumary Collection Interface</a>
 </p>
 
