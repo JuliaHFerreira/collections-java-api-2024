@@ -1,6 +1,5 @@
 package main.set.OperacoesBasicas;
 
-import java.util.Collections;
 import java.util.HashSet;
 import java.util.Set;
 
@@ -77,10 +76,7 @@ public class ConjuntoPalavrasUnicas {
 		
 		System.out.println("A linguagem Python está no conjunto?");
 		conjuntoLinguagens.verificarPalavra("Python");
-
 	
 		conjuntoLinguagens.exibirPalavrasUnicas();
 	}
-
-
 }
